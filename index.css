@@ -1,0 +1,115 @@
+
+
+.top-nav {
+    width: 2000px;
+    width: 100%;
+    margin: 0 auto;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.topright {
+    display: flex;
+    align-items: right;
+    justify-content: right;
+    color: cadetblue;
+}
+.topmid {
+    font-size: 12px;
+    display: flex;
+    width: 300px;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.topleft {
+    width: 50px;
+    display: flex;
+    align-items: left;
+    justify-content: space-between;
+}
+
+.sub {
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(73, 108, 153);
+}
+
+.login    {
+    font-size: 12px;
+    border-radius: 5px;
+    padding: 10px;
+    color: white;
+    border: 1px solid white;
+    background-color: rgb(73, 108, 153);
+}
+
+.mid-nav    {
+width: 2000px;
+width: 100%;
+margin: 0 auto;
+align-items: center;
+justify-content: space-between;
+display: flex;
+}
+
+.title {
+    align-items: center;
+    font-size: 50px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Babylonica', cursive;
+}
+
+.stats {
+    justify-content: left;
+    font-size: 12px;
+}
+
+.weather {
+    width: 100px;
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+}
+
+.date {
+    font-family: 'Noto Serif Khojki', serif;
+}
+
+.sections {
+    width: 1150px;
+    align-items: center;
+    justify-content: space-between;
+    display: flex;
+}
+
+.temp {
+    font-size: 15px;
+}
+
+.news {
+    display: grid;
+    grid-template-columns: (3fr, 1fr);
+}
+
+.chinese-spy-balloon {
+    border-bottom: 1px solid gray;
+}
+
+.turkey-earthquake {
+
+}
+
+.earthquake {
+    width: 400px;
+}
+
+.news3 {
+
+}
+
